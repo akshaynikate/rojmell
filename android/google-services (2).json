@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059520439491",
+    "project_id": "rojmell",
+    "storage_bucket": "rojmell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059520439491:android:0b6c997822ddaab91cae76",
+        "android_client_info": {
+          "package_name": "com.example.rojmell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059520439491-86qnkt33d33u5foidf76vhdsibutco7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYEjuJaA1a10KQsaRd3bcIZJunbG9wrfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059520439491-86qnkt33d33u5foidf76vhdsibutco7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
